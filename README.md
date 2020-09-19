@@ -1,4 +1,4 @@
-# Template - Table
+# Template - OpenUI5 Table
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-openui5-table.svg)](https://github.com/dirigiblelabs/template-openui5-table/graphs/contributors)
